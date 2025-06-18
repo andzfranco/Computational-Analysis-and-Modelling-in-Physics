@@ -1,9 +1,27 @@
-This folder contains all my submissions for the AP157: Computational Analysis and Modelling in Physics class. 
+# AP157: Computational Analysis and Modelling in Physics
 
-[0] Final Project encompasses my final project on predicting diabetes risk using Random Forest Regressor and explainable AI, SHapley Additive exPlanations (SHAP).
+This repository contains all my submissions for **AP157: Computational Analysis and Modelling in Physics**.
 
-[A] Machine Learning includes machine learning basics: regression, classification using Decision Trees, and dimensionality reduction using Principal Component Analysis (PCA).
+## 📂 Folder Overview
 
-[B] Image processing includes synthetic image formation, enhancement, and Fourier Transform applications. 
+### 🔬 [0] Final Project: Diabetes Risk Prediction  
+- Developed a **Random Forest Regressor** to predict diabetes risk  
+- Applied **SHAP (SHapley Additive exPlanations)** for explainable AI  
+- Highlighted key features influencing the predictions of the model
 
-[C] Monte Carlo Methods and Networks encompasses visualization and measures of networks and using MCMC to fit models to a dataset.
+### 🤖 [A] Machine Learning  
+- Covered fundamental ML techniques:  
+  - **Regression** (Overfitting, Underfitting, Cross-Validation)
+  - **Classification** using **Decision Trees**  
+  - **Dimensionality Reduction** with **Principal Component Analysis (PCA)**
+
+### 🖼️ [B] Image Processing  
+- Explored basic image processing techniques:  
+  - **Synthetic image formation**  
+  - **Image enhancement**  
+  - **Fourier Transform** applications
+
+### 🎲 [C] Monte Carlo Methods & Networks  
+- Network visualization
+- Computed **centrality** and other **network measures**  
+- Used **Markov Chain Monte Carlo (MCMC)** to fit models to datasets
